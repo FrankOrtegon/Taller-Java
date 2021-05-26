@@ -22,3 +22,5 @@ Ejercicios1a10/Ejercicio2.java
  Ejercicios1a10.Ejercicio2
 Ejercicios11a15/Ejercicio12.java
  Ejercicios11a15.Ejercicio12
+Ejercicios11a15/Ejercicio13.java
+ Ejercicios11a15.Ejercicio13
