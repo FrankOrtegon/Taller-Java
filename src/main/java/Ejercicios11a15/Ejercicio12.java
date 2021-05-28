@@ -21,7 +21,6 @@ public class Ejercicio12 {
             List<Character> letrasDiferentes1 = new ArrayList<>();
             List<Character> letrasDiferentes2 = new ArrayList<>();
             int longi = mayor(palabra1, palabra2);
-
             lista(palabra1, palabra2, letrasDiferentes1, letrasDiferentes2, longi);
 
             if (palabra1.length() < palabra2.length()) {

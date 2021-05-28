@@ -16,6 +16,8 @@ Ejercicios1a10/Ejercicio9.java
  Ejercicios1a10.Ejercicio9
 Ejercicios11a15/Ejercicio15.java
  Ejercicios11a15.Ejercicio15
+Ejercicios1a10/Ejercicio2.java
+ Ejercicios1a10.Ejercicio2
 Ejercicios1a10/Ejercicio6.java
  Ejercicios1a10.Ejercicio6
 Ejercicios1a10/Ejercicio10.java
@@ -30,5 +32,11 @@ Ejercicios11a15/Ejercicio11.java
  Ejercicios11a15.Ejercicio11
 Ejercicios11a15/Ejercicio14.java
  Ejercicios11a15.Ejercicio14
-Ejercicios1a10/Ejercicio2.java
- Ejercicios1a10.Ejercicio2
+Ejercicio17/Electrodomesticos.java
+ Ejercicio17.Electrodomesticos
+Ejercicio17/Lavadora.java
+ Ejercicio17.Lavadora
+Ejercicio17/Television.java
+ Ejercicio17.Television
+Ejercicio17/main.java
+ Ejercicio17.main
