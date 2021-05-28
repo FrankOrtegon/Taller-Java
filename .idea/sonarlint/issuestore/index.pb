@@ -24,8 +24,6 @@ X
 \
 ,src/main/java/Ejercicios1a10/Ejercicio9.java,3\3\33d10d59629150c80d175f711725b8b77d0bbab4
 \
-,src/main/java/Ejercicios1a10/Ejercicio8.java,a\3\a31adc76f384738ee1b240fb30c0fcc28631b349
-\
 ,src/main/java/Ejercicios1a10/Ejercicio5.java,0\a\0a3af9b0700b1b8cbd625d0e984d25ca06ae8ea7
 ]
 -src/main/java/Ejercicios1a10/Ejercicio10.java,8\c\8c38f9ee895ff33834f2db9ac322e6834867f085
